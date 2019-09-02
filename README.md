@@ -1,7 +1,10 @@
 # anime4k-web
 
-# https://github.com/bloc97/Anime4K
-# https://github.com/mobooru/Anime4K
+[preview](https://git-user-cherryblossom.github.io/anime4k-web/)
+
+thinks:
+##### https://github.com/bloc97/Anime4K
+##### https://github.com/mobooru/Anime4K
 
 ## Project setup
 ```
