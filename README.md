@@ -1,6 +1,6 @@
 # anime4k-web
 
-[preview](https://git-user-cherryblossom.github.io/anime4k-web/)
+[preview](https://sakura-flutter.github.io/anime4k-web/)
 
 thinks:
 ##### https://github.com/bloc97/Anime4K
